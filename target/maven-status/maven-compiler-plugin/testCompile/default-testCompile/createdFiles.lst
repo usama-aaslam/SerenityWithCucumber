@@ -1,7 +1,0 @@
-starter\navigation\DuckDuckGoHomePage.class
-starter\stepdefinitions\ParameterDefinitions.class
-starter\CucumberTestSuite.class
-starter\navigation\NavigateTo.class
-starter\search\SearchForm.class
-starter\search\LookForInformation.class
-starter\stepdefinitions\SearchStepDefinitions.class
